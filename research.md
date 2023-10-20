@@ -12,9 +12,8 @@
 - here for retriving slots for operator we pass operator's id operator_id(`api/getAppointments/:id` endpoint)
 - in real what we can do is make only one log in and set status for user like if status:1 then it's user if status:2 then it is operator
 
-## research and refrence
+## research and refrence-->
 
 
 - an interface to integrating Node js with postgres `https://www.npmjs.com/package/pg-promise`
 - for preventing table to be created everytime the server starts i have read about IF NOT EXIST `https://stackoverflow.com/questions/1175217/sql-server-if-not-exists-usage`
--

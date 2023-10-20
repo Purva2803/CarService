@@ -22,3 +22,4 @@
   VALUES (1, 'purva');"
 
 - and use this user_id for any apis whenever needed
+-for the postman set the URL variable = `http://localhost:3000`
