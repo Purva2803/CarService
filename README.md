@@ -10,7 +10,6 @@ This is my repository for the car service booking.
     - PostgreSQL
     - Node js
     - Express js
-    - 
 
 ## setup
 - First, create a `.env` using [template. env](template. env) as a reference.
